@@ -1,4 +1,7 @@
-# Anycubic i3 Mega Marlin (BLTouch) 1.1.9 by davidramiro & MNieddu91
+# Anycubic i3 Mega Marlin with BLTouch 
+Modified offset, reversed X, Y motors.
+
+Based on firmware 1.1.9 by davidramiro & MNieddu91. 
 
 This is my slightly customized version of the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin), gratefully based on [derhopp's repo](https://github.com/derhopp/Marlin-with-Anycubic-i3-Mega-TFT), [davidramiros's repo](https://github.com/davidramiro/Marlin-AI3M) and [DerDomink's repo](https://github.com/DerDominik/Marlin-AnycubicI3Mega-BLTouch).  
 This version is a simply 1-to-1 copy of [davidramiros's](https://github.com/davidramiro/Marlin-AI3M) with the necessary changes that **BLTouch or any clone can be used.**
